@@ -17,22 +17,6 @@ There are 3 good methods to using these scripts:
 3. Copying a script and running it in the inspect element console
 </details>
 
-<details><summary><h3>What can I do if JavaScript is blocked?</h3></summary>
-
-We don't actually know what to do about this or how to fix it, sorry.
-</details>
-
-<details><summary><h3>(script) is not working?</h3></summary>
-
-Make sure you're running it properly (see [How to use](https://github.com/Minesraft2/Blooket-Cheats#how-to-use)), if it still doesn't work and other cheats do, then [make an issue](https://github.com/Minesraft2/Blooket-Cheats/issues)
-</details>
-
-<details><summary><h3>What is the difference between obfuscated and unobfuscated?</h3></summary>
-
-Obfuscated are scripts that are changed to be unreadable, unobfuscated are the original scripts (both with an added update checker).
-Unobfuscated scripts will not work if you try copying it and pasting it into a bookmarklet. This is because of the lack of semicolons in certain places. Please either use the obfuscated scripts or use one of the methods mentions in the first FAQ
-</details>
-
 <details><summary><h3>Can you give me infinite tokens / bypass daily limit / permanently give me blooks / change pack luck?</h3></summary>
 
 No, these are things we would've already done if they were possible, they're managed on the backend of Blooket so we can't modify them
