@@ -1,7 +1,7 @@
 # blooket-hacks
 
 this are some of the best blooket hacks.
-goto https://raw.githubusercontent.com/Minesraft2/Blooket-Cheats/main/obfuscated/Bookmarklets.html 
+goto https://raw.githubusercontent.com/pgisfat/blooket-hacks/main/hacks.html
 then press ctrl + S      
 then goto chrome://bookmarks/
 then press the three dots
